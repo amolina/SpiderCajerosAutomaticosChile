@@ -1,11 +1,17 @@
-import xmltodict, json, urllib2
+import xmltodict, json, urllib2,os
 
 def dataxml(uri):
     file = urllib2.urlopen(uri)
     data = file.read()
-    file.close()
-    
+    file.close()    
     return data
+
+def savejson(data,archivo):
+    fn = os.path.join(os.path.dirname(__file__), 'data\/json\/'+archivo)
+    print fn
+    with open(fn, 'w+') as fp:
+        json.dump(data, fp)
+
 
 #declaramos variables a utilizar mas tarde
 
@@ -44,7 +50,11 @@ for comuna in comunasreg:
     #lacomuna['nombre']=nombre
     comunasregioness[codigo]=nombre
 
-print comunasrms
-print "-----"
-print comunasregioness
+comunascl["regiones"]=comunasregioness
+comunascl["rm"]=comunasrms
+#Guardamos el Json de Comunas
+savejson(comunascl,"comunas.json")
+
+#iteramos por las comunas para obtener data de cajeros
+
 
