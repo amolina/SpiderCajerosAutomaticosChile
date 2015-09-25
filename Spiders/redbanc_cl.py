@@ -56,5 +56,5 @@ comunascl["rm"]=comunasrms
 savejson(comunascl,"comunas.json")
 
 #iteramos por las comunas para obtener data de cajeros
-
+ 
 
