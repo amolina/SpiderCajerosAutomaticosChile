@@ -102,7 +102,7 @@ for id, comuna in comunas["rm"].items():
         
 for id, comuna in comunas["regiones"].items():
     cajeros = xmltodict.parse(dataxml("http://www.redbanc.cl/portal_redbanc/browse?pagina=portal_redbanc/Localizador_cajeros.xml&idioma=0&id_comuna="+id))
-    cuenta=0
+   
     if cajeros["retorno"].has_key("cajero"):
         for cajeross in cajeros["retorno"]["cajero"]:
             cuenta=cuenta+1
@@ -124,9 +124,9 @@ for id, comuna in comunas["regiones"].items():
 
 
  
+savejson(cajeroschile,"cajeros.json")
 
-
-print cajeroschile
+ 
 
 """     for cajero in cajeros["retorno"]["cajero"]:
         print cajero["direccion"]
