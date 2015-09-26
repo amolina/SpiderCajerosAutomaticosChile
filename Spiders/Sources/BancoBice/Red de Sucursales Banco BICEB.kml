@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Red de Sucursales Banco BICE</name>
+		<description><![CDATA[Sucursales y cajas auxiliares de Banco BICE en Santiago de Chile y Regiones.<br>www.bice.cl]]></description>
+		<NetworkLink>
+			<name>Red de Sucursales Banco BICE</name>
+			<Link>
+				<href>http://mapsengine.google.com/map/u/0/kml?forcekml=1&amp;mid=ztaSPxeDXlSk.klLTJcNU31Cw</href>
+			</Link>
+		</NetworkLink>
+	</Document>
+</kml>

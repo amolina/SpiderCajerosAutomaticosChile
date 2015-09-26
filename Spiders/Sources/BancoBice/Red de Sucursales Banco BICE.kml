@@ -1,0 +1,567 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Red de Sucursales Banco BICE</name>
+		<description><![CDATA[Sucursales y cajas auxiliares de Banco BICE en Santiago de Chile y Regiones.<br>www.bice.cl]]></description>
+		<Folder>
+			<name>Capa sin nombre</name>
+			<Placemark>
+				<name>Banco BICE - Sucursal Antofagasta</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                                Sucursal Antofagasta                              <br>Balmaceda 2452-2492<br>                                +56 (55) 2657 200<br>                              9:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-70.400865,-23.646249,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Casa Matriz</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                              Casa Matriz                              <br>Teatinos 220<br>                                +56 (2) 2 2692 2000<br>                              9:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-70.655099,-33.440954,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Sucursal Miraflores</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                              Sucursal Miraflores                              <br>Agustinas 640, Piso 15<br>                                +56 (2) 2 2692 2781<br>                              9:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-70.645826,-33.440369,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Sucursal Vicuña Mackenna</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                              Sucursal Vicuña Mackenna                              <br>Vicuña Mackenna 3011<br>                                +56 (2) 2 2692 2481<br>                              9:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-70.622177,-33.47837500000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Sucursal El Cortijo</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                              Sucursal El Cortijo                              <br>Av. Pdte. Eduardo Frei Montalva 6239<br>                                +56 (2) 2 2692 2588<br>                              9:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-70.698594,-33.367209,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Sucursal Providencia</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                              Sucursal Providencia                              <br>La Concepción 22<br>                                +56 (2) 2 2692 2457<br>                              9:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-70.614986,-33.42569000000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Sucursal Apoquindo</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                                Sucursal Apoquindo                              <br>Apoquindo 2858-2880<br>                                +56 (2) 2 2692 2425<br>                              9:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-70.599707,-33.417574,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Sucursal Isidora Goyenechea</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                              Sucursal Isidora Goyenechea                              <br>Isidora Goyenechea 3132<br>                                +56 (2) 2 2692 2680<br>                              9:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-70.597615,-33.414372,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Sucursal Vitacura</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                              Sucursal Vitacura                              <br>Nueva Costanera 3768<br>                                +56 (2) 2 2692 2731<br>                              8:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-70.599341,-33.39531,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Sucursal El Golf</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                              Sucursal El Golf                              <br>Apoquindo 4001, locales 103-104<br>                                +56 (2) 2 2692 1860<br>                              8:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-70.588799,-33.415226,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Sucursal Nueva Las Condes</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                              Sucursal Nueva Las Condes                              <br>Av. Presidente Riesco 5561<br>                                +56 (2) 2 2692 2000<br>                              8:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-70.574454,-33.404392,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Sucursal Los Domínicos</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                              Sucursal Los Domínicos                              <br>Av. Camino El Alba 11.969 Local 302<br>                                +56 (2) 2 2631 8060<br>                              9:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-70.514183,-33.401193,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Sucursal Camino de Asís</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>Sucursal Camino de Asís                              <br>Av. Las Condes 12.340 local 1<br>                                +56 (2) 2 2692 34 21<br>                              8:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-70.517278,-33.372483,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Sucursal El Portal</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                              Sucursal El Portal                              <br>Av. La Dehesa 1201, L. 104 - 105<br>                                +56 (2) 2 2631 8030<br>                              8:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-70.515452,-33.360508,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Sucursal La Dehesa</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                              Sucursal La Dehesa                              <br>Avda. José Alcalde Délano 12432<br>                                +56 (2) 2 2692 2747<br>                              8:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-70.524112,-33.353572,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Sucursal Los Trapenses</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                              Sucursal Los Trapenses                              <br>Av. Los Trapenses 3515, Local 309<br>                                +56 (2) 2 2631 8040<br>                              9:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-70.544613,-33.343996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Sucursal Rancagua</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                              Sucursal Rancagua                              <br>Avda. Eduardo Frei Montalva 340<br>                                +56 (72) 331 600<br>                              9:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-70.729921,-34.182017,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Sucursal Talca</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                              Sucursal Talca                              <br>2 Norte 3415<br>                                +56 (71) 417 400<br>                              9:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.627544,-35.431398,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Sucursal Los Angeles</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                              Sucursal Los Ángeles                              <br>Alemania 1105<br>                                +56 (43) 406 000<br>                              9:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-72.332911,-37.467476,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Caja Auxiliar Laja</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                              Caja Auxiliar Laja                              <br>Balmaceda 30<br>                                +56 (43) 463 441<br>                              9:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-72.340851,-37.475948,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Caja Auxiliar Nacimiento</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                              Caja Auxiliar Nacimiento                              <br>Julio Hemmelmann s/n Recinto Ind. Forvesa<br>                                +56 (43) 511 842<br>                              9:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-72.354452,-37.47282100000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Sucursal Temuco</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                              Sucursal Temuco                              <br>Arturo Prat 795<br>                                +56 (45) 553 000<br>                              9:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-72.591047,-38.741312,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Sucursal Osorno</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                              Sucursal Osorno                              <br>Francisco Bilbao 1107, Osorno<br>                                +56 (64) 327 100<br>                              9:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.131252,-40.575989,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Sucursal San Pedro de la Paz</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                              Sucursal San Pedro de la Paz, Concepción                              <br>Camino el Venado 620, San Pedro de la Paz  <br>                                +56 (41) 220 53 60<br>                              8:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.093985,-36.853753,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Sucursal Santa María de Manquehue</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                              Sucursal Santa María de Manquehue                              <br>Av. Santa María 6736 Local A  <br>                                +56 (2) 2 2631 8081<br>                              8:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-70.570647,-33.377235,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Sucursal Puerto Montt</name>
+				<description><![CDATA[<img src="http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg" height="200" width="auto" /><br><br>Banco BICE<br>                              Sucursal Puerto Montt                              <br>Av. Pdte. Ibáñez 610 Local 4<br>                                +56 (65) 321 000<br>                              9:00 a 14:00 Hrs.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://multimedia.bice.cl/mapas/index_files/sucursal-generica.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-72.946776,-41.461238,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Sucursal Concepción
+</name>
+				<description><![CDATA[Banco BICE<br>Sucursal Concepción<br>Avenida Arturo Prat 199, Torre B<br>+56 (41) 220 53 06 <br>9:00 a 14:00 Hrs. ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.0569363,-36.8329891,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Calle Bloqueada</name>
+				<description><![CDATA[Prefiera camino alternativo para llegar a su Sucursal Banco BICE Vicuña Mackenna.]]></description>
+				<styleUrl>#line-DB4436-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-70.6299019,-33.4553623,0.0 -70.6262112,-33.4686807,0.0 -70.6242371,-33.4706139,0.0 -70.620203,-33.4855049,0.0 -70.6187439,-33.4874376,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Indicaciones de Banco BICE - Sucursal Concepción a Nueva Sucursal Banco BICE</name>
+			<Placemark>
+				<name>Indicaciones de Banco BICE - Sucursal Concepción a Nueva Sucursal Banco BICE</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-73.04967,-36.82928,0.0 -73.04974,-36.82917,0.0 -73.0499,-36.8289,0.0 -73.04865,-36.82837,0.0 -73.048,-36.82939,0.0 -73.04866,-36.82967,0.0 -73.04927,-36.8299,0.0 -73.05052,-36.83044,0.0 -73.05166,-36.83091,0.0 -73.05178,-36.83095,0.0 -73.05219,-36.83113,0.0 -73.05302,-36.83147,0.0 -73.05429000000001,-36.83199,0.0 -73.05556,-36.83252,0.0 -73.05668,-36.833,0.0 -73.05677,-36.83303,0.0 -73.0569,-36.83308,0.0 -73.05694,-36.8331,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Sucursal Concepción</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.0496704,-36.8292821,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nueva Sucursal Banco BICE</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.0569422,-36.8331001,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Capa sin nombre</name>
+		</Folder>
+		<Folder>
+			<name>Indicaciones de Banco BICE - Caja Auxiliar Concepción a Nueva Sucursal Banco BICE</name>
+			<Placemark>
+				<name>Indicaciones de Banco BICE - Caja Auxiliar Concepción a Nueva Sucursal Banco BICE</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-73.05049,-36.82799,0.0 -73.05054,-36.82790000000001,0.0 -73.05074,-36.82799,0.0 -73.05178,-36.82844,0.0 -73.05117,-36.82943,0.0 -73.05052,-36.83044,0.0 -73.05166,-36.83091,0.0 -73.05178,-36.83095,0.0 -73.05219,-36.83113,0.0 -73.05302,-36.83147,0.0 -73.05429000000001,-36.83199,0.0 -73.05556,-36.83252,0.0 -73.05668,-36.833,0.0 -73.05677,-36.83303,0.0 -73.0569,-36.83308,0.0 -73.05694,-36.8331,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Banco BICE - Caja Auxiliar Concepción</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.0504871,-36.8279889,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nueva Sucursal Banco BICE</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.0569422,-36.8331001,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-1267FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF6712</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-1267FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF6712</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-1267FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-1267FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-1267FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-DB4436-5-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-DB4436-5-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-DB4436-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-DB4436-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-DB4436-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
