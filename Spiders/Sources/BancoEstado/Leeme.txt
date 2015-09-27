@@ -1,0 +1,5 @@
+Banco estado no tiene informacion de sus sucursales en la pagina web de ellos,
+Las sucursales estan almacenaas en un servidor externo(mapserver) y la forma de obtener los resultados es escribiendo comunas de forma manual, el sistema carece de un listbox de comunas,por lo cual hay que adivinar
+
+El parseo de la informacion, en este caso se realiza iterando datos en una mezcla de csv con html, algo poco usual.
+
