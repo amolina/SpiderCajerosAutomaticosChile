@@ -1,0 +1,3 @@
+Segun SBIF tienen mas de 400 cajeros en Todo Chile, no tienen mapa, se debe programar un spider para extraer ubicaciones desde esta web
+
+https://www.corpbanca.cl/portal/?page=Document/doc_view_section.asp&id_document=3243&id_category=62

@@ -1,0 +1,5 @@
+las ubicaciones estan en esta pagina
+http://intl.scotiabank.com/es-cl/locator/Mapa.aspx?sa=true&t=abm
+
+al buscar todas las sucursales/cajeros al parecer la query interna tiene un limite, porque muestra solo hasta concepcion, sin embargo si busco de forma individual mas al sur ,en ciudades como Los angeles, si aparecen cajeros.
+

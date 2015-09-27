@@ -1,0 +1,1 @@
+En el json, hay 2 entradas cuyo valor es SI, SI, la primera aparicion es para indicar que tiene cajero automatico, la segunda indica autoatencion ITAU

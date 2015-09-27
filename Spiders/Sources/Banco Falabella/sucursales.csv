@@ -1,0 +1,98 @@
+REGION;CIUDAD;NOMBRE;DIRECCION;HORARIO;OFICINA;MAPA
+Región de Arica y Parinacota;Arica;Centro;21 de Mayo 442;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-18.4794306,-70.31777794999999
+Región de Tarapacá;Iquique;Centro;Tarapacá 441;Lunes a viernes de 09:00 a 18:00 hrs.;Oficina;-20.2138156,-70.1508705
+Región de Tarapacá;Iquique;Mall Las Américas;Héroes de la Concepción 2555 Local 13-14-174b-176-178;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 20:00 hrs. Sábado, domingo y festivos de 11:00 a 14:00 hrs. y de 15:00 a 19:00 hrs.;Oficina;-20.2316643,-70.1417316
+Región de Antofagasta;Antofagasta;Centro;Arturo Prat 580;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-23.648613,-70.3967
+Región de Antofagasta;Antofagasta;Mall Plaza;Balmaceda 2355 Local 2B-3B;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 20:00 hrs. Sábado, domingo y festivos de 11:00 a 14:00 hrs. y de 15:00 a 19:00 hrs.;Oficina;-23.6464869,-70.4009009
+Región de Antofagasta;Calama;Centro;Almirante Juan José La Torre 1852;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-22.4622124,-68.9257407
+Región de Antofagasta;Calama;Mall;Balmaceda 3242 Local T112-T116;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 20:00 hrs. Sábado, domingo y festivos de 11:00 a 20:00 hrs.;Oficina;-22.4494937,-68.9206109
+Región de Atacama;Copiapó;Centro;Colipi  484 Local H-105;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 20:00 hrs.;Oficina;-27.3665639,-70.331303
+Región de Atacama;Copiapó;Mall Plaza Copiapó;Maipú 110;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 20:00 hrs. Sábado, domingo y festivos de 11:00 a 14:00 hrs. y de 15:00 a 20:00 hrs.;Oficina;-27.369444309580224,-70.3368847730469
+Región de Coquimbo;La Serena;Mall Plaza;Alberto Solari 1400 Local 166-A;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 20:00 hrs. Sábado, domingo y festivos de 11:00 a 19:00 hrs.;Oficina;-29.9119088,-71.2585325
+Región de Coquimbo;La Serena;Centro;Av. Libertador Bernardo O'Higgins 451;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-29.9025352,-71.2485292
+Región de Coquimbo;Coquimbo;;Borgoño 409;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-29.9547308,-71.3388204
+Región de Coquimbo;Ovalle;Open Plaza Ovalle;Prolongación Benavente 1075 Local 1590;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 20:00 hrs. Sábado, domingo y festivos de 11:00 a 14:00 hrs. y de 15:30 a 20:00 hrs.;Oficina;-30.597439987010738,-71.18542580181577
+Región de Valparaíso;Valparaíso;Tienda Falabella;Independencia 1840;Lunes a viernes de 09:00 a 20:00 hrs. Sábado, domingo y festivos de 11:00 a 19:00 hrs.;Oficina;-33.047483260331475,-71.61764874999994
+Región de Valparaíso;Valparaíso;Esmeralda;Esmeralda 959;Lunes a viernes de 09:00 a 18:30 hrs.;Oficina;-33.0409327,-71.6257051
+Región de Valparaíso;Viña del mar;Quinta;Av. Valparaíso  585;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 20:00 hrs.;Oficina;-33.024605,-71.554352
+Región de Valparaíso;Viña del mar;Santa Julia;Av. Alessandri Gomez Carreño 4085 Local 1130;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 20:00 hrs. Sábado, domingo y festivos de 11:00 a 19:00 hrs.;Oficina;-33.0011284,-71.5102325
+Región de Valparaíso;Viña del mar; Plaza Coracero;Av. Benidorm 745 Local 4 (15 norte esquina  Av. Libertad);Lunes a viernes de 09:00 a 18:00 hrs.;Oficina;-33.007621337657945,-71.54799440791622
+Región de Valparaíso;Villa Alemana;Valparaíso;Valparaíso 545;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-33.0441737,-71.3713845
+Región de Valparaíso;Quilpué;Mall Plaza El Sol;Diego Portales 822 Local 1;Lunes a viernes de 09:00 a 20:00 hrs. Sábado, domingo y festivos de 09:00 a 20:00 hrs.;Oficina;-33.0467597,-71.4417376
+Región de Valparaíso;San Felipe;Centro;Salinas 201;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-32.7505637,-70.7257978
+Región de Valparaíso;Quillota;Plaza de armas;Maipú 342 Local 11;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 18:30 hrs.;Oficina;-32.8794226,-71.2473624
+Región de Valparaíso;La Calera;La Calera Mall;Prolongación J.J. Perez 12010;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 20:00 hrs. Sábado, domingo y festivos de 11:00 a 14:00 hrs. y de 15:30 a 20:00 hrs.;Oficina;-32.7860976,-71.1899306
+Región de Valparaíso;San Antonio;Centro;Av. Centenario 118 Local B ;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-33.5804713,-71.6113992
+Región de Valparaíso;San Felipe;San Felipe Mall;Av. Bernardo O'Higgins 1150 Local 1110;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 20:00 hrs. Sábado, domingo y festivos de 11:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-32.7551146,-70.7259896
+Región de Valparaíso;Los Andes;Plaza de armas;Bernardo O’Higgins 384  ;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-32.834228634397164,-70.59877204999998
+Región Metropolitana;Santiago;Mall Parque Arauco;Avenida Kennedy 5413;Lunes a viernes de 09:00 a 21:00 hrs. Sábado, domingo y festivos de 11:00 a 19:00 hrs.;Oficina;-33.4019825,-70.5805137
+Región Metropolitana;Santiago;Mall Plaza Vespucio - Boulevard;Av. Vicuña Mackenna 7110 Local 57;Lunes a viernes de 09:00 a 19:00 hrs.;Oficina;-33.5187646,-70.6000922
+Región Metropolitana;Santiago;Mall Plaza Vespucio;Av. Vicuña Mackenna 7110  Local E-1;Lunes a viernes de 09:00 a 21:00 hrs. Sábado, domingo y festivos de 11:00 a 21:00 hrs.;Oficina;-33.5187646,-70.6000922
+Región Metropolitana;Santiago;Providencia;Luis Thayer Ojeda 086 Local 102;Lunes a viernes de 09:00 a 19:00 hrs.;Oficina;-33.4193453,-70.6024264
+Región Metropolitana;Santiago;Mall Alto Las Condes;Av. Kennedy 9001 Local 2004;Lunes a viernes de 09:00 a 21:00 hrs. Sábado, domingo y festivos de 11:00 a 21:00 hrs.;Oficina;-33.388825,-70.5452714
+Región Metropolitana;Santiago;Maipú;Av. 5 de Abril 78;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-33.510651,-70.7583432
+Región Metropolitana;Santiago;Huérfanos;Huerfanos 1253 Local 2b;Lunes a viernes de 09:00 a 19:00 hrs.;Oficina;-33.4399697,-70.6545187
+Región Metropolitana;Santiago;Mall Plaza Oeste;Av. Américo Vespucio 1501 Local BS-120 A;Lunes a viernes de 09:00 a 21:00 hrs. Sábado, domingo y festivos de 11:00 a 21:00 hrs.;Oficina;-33.5158295,-70.7154182
+Región Metropolitana;Santiago;Puente Alto;Balmaceda 190;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-33.6100189,-70.5749059
+Región Metropolitana;Santiago;Ahumada;Ahumada 125;Lunes a viernes de 09:00 a 19:00 hrs.;Oficina;-33.4416584,-70.6506458
+Región Metropolitana;Santiago;San Bernardo;O'Higgins 580;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-33.59158,-70.7048765
+Región Metropolitana;Santiago;Alameda;Av. Liber. Bernardo O'Higgins 883;Lunes a viernes de 09:00 a 19:00 hrs.;Oficina;-33.44323465303236, -70.64887306904906
+Región Metropolitana;Santiago;Mall Plaza Norte;Av. Américo Vespucio 1737 Local 1120-1124;Lunes a viernes de 09:00 a 21:00 hrs. Sábado, domingo y festivos de 11:00 a 21:00 hrs.;Oficina;-33.4725894,-70.7591684
+Región Metropolitana;Santiago;Irarrázaval;Irarrázaval 2779;Lunes a viernes de 09:00 a 19:00 hrs.;Oficina;-33.4544794104928,-70.60211915000002
+Región Metropolitana;Santiago;Providencia;Nueva de Lyon 064;Lunes a viernes de 09:00 a 20:00 hrs.;Oficina;-33.4213093,-70.6103069
+Región Metropolitana;Santiago;San Miguel;Gran Av. José Miguel Carrera 4965;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-33.4991656,-70.6537506
+Región Metropolitana;Santiago;Mall Plaza Tobalaba;Av. Camilo Henríquez 3296;Lunes a viernes de 09:00 a 21:00 hrs. Sábado, domingo y festivos de 11:00 a 19:00 hrs.;Oficina;-33.5690409,-70.5547857
+Región Metropolitana;Santiago;Ahumada;Ahumada 302;Lunes a viernes de 09:00 a 19:00 hrs.;Oficina;-33.4396007,-70.6509709
+Región Metropolitana;Santiago;Peñaflo - Tottus;Alcalde Luis Araya Cereceda 1047;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-33.6064492,-70.8987654
+Región Metropolitana;Santiago;Apumanque;Av. Apoquindo 6051 Local 30-31;Lunes a viernes de 09:00 a 20:00 hrs.;Oficina;-33.4091132,-70.5681681
+Región Metropolitana;Santiago;Nataniel Cox - Tottus;Nataniel Cox 620;Lunes a viernes de 09:00 a 20:00 hrs.;Oficina;-33.4532267,-70.6526691
+Región Metropolitana;Santiago;Puente;Puente 551;Lunes a viernes de 09:00 a 19:00 hrs.;Oficina;-33.4367598,-70.6513168
+Región Metropolitana;Santiago;Buin - Tottus;San Martin 174;Lunes a viernes de 09:00 a 20:00 hrs.;Oficina;-33.7320038,-70.7359408
+Región Metropolitana;Santiago;Gran Avenida - Tottus;Gran Av. José Miguel Carrera 10375 Local 10;Lunes a viernes de 09:00 a 19:30 hrs. Sábado, domingo y festivos de 11:00 a 19:30 hrs.;Oficina;-33.5540254,-70.6749879
+Región Metropolitana;Santiago;Melipilla;Avda. Serrano 349 - 353;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-33.6844488,-71.2138038
+Región Metropolitana;Santiago;Mall Costanera Center;Av. Andres Bello 2465 Local 4228;Lunes a viernes de 09:00 a 21:00 hrs. Sábado, domingo y festivos de 11:00 a 21:00 hrs.;Oficina;-33.4176826,-70.6082521
+Región Metropolitana;Santiago;Ahumada;Ahumada 199;Lunes a viernes de 09:00 a 19:00 hrs.;Oficina;-33.44079,-70.6507737
+Región Metropolitana;Santiago;Cantagallo;Av. Las Condes 12265  Local 99-100 ;Lunes a viernes de 09:00 a 19:00 hrs.;Oficina;-33.373097,-70.5183643
+Región Metropolitana;Santiago;Intermodal La Cisterna;Americo Vespucio 033 Loc. 1-2-3-4;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 20:00 hrs. Sábado, domingo y festivos de 11:00 a 15:00 hrs.;Oficina;-33.5367803,-70.6653066
+Región Metropolitana;Santiago;Talagante;Av. Bernardo O'Higgins 1132 Local  3-4;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-33.4486111,-70.6705556
+Región Metropolitana;Santiago;Los Cobres de Vitacura;Av. Vitacura 6844 Local 2-5;Lunes a viernes de 09:00 a 19:00 hrs.;Oficina;-33.38768096046619,-70.56625514999996
+Región Metropolitana;Santiago;Ciudad Empresarial;Av. Santa Clara 354 Local 114;Lunes a viernes de 09:00 a 19:00 hrs.;Oficina;-33.3887348,-70.6196989
+Región Metropolitana;Santiago;Mall Plaza Sur;Av. Jorge Alessandri 20040 Local BS-114;Lunes a viernes de 09:00 a 20:00 hrs. Sábado, domingo y festivos de 11:00 a 20:00 hrs.;Oficina;-33.6292059,-70.7134325
+Región Metropolitana;Santiago;Mall Arauco Maipú;Av. Américo Vespucio 399 Local B-30;Lunes a viernes de 09:00 a 19:00 hrs. Sábado, domingo y festivos de 11:00 a 19:00 hrs.;Oficina;-33.4813585,-70.7540168
+Región Metropolitana;Santiago;Mall Paseo Quilín;Mar Tirreno 3349 Local 006 B;Lunes a viernes de 09:00 a 19:00 hrs.;Oficina;-33.485325, -70.577467
+Región Metropolitana;Santiago;San Bernardo;Eyzaguirre 531-533 Local 1-3;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-33.5929848,-70.7053955
+Región Metropolitana;Santiago;Plaza Egaña;Av. Irarrázaval 5420;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-33.4532884,-70.5736461
+Región Metropolitana;Santiago;Estado;Estado 155;Lunes a viernes de 09:00 a 19:00 hrs.;Oficina;-33.4411416,-70.6492679
+Región Metropolitana;Santiago;Mall Plaza Alameda;Av. Lib. Bernardo O'Higgins 3470 Local E 108-110-112;Lunes a viernes de 09:00 a 18:30 hrs. Sábado, domingo y festivos de 11:00 a 18:30 hrs.;Oficina;-33.4486111,-70.6705556
+Región Metropolitana;Santiago;Mall Arauco Quilicura;Av. O´Higgins 581 Local 23-24 ;Lunes a viernes de 09:00 a 19:00 hrs. Sábado, domingo y festivos de 11:00 a 19:00 hrs.;Oficina;-33.4486111,-70.6705556
+Región Metropolitana;Santiago;Mall Plaza Egaña;Av. Larrain 5862 Local 1040 al 1060;Lunes a viernes de 09:00 a 20:00 hrs. Sábado, domingo y festivos de 11:00 a 19:00 hrs.;Oficina;-33.453404,-70.569362
+Región Metropolitana;Santiago;El Bosque Norte;Av. El Bosque Norte 0160 Local 6;Lunes a viernes de 09:00 a 19:00 hrs.;Oficina;-33.4154339,-70.6010772
+Región Metropolitana;Santiago;Patronato;Eusebio Lillo 404 ;Lunes a viernes de 09:00 a 18:00 hrs.;Oficina;-33.4287608,-70.6440276
+Región del Libertador Bernardo O´Higgins;Rancagua;Mall Plaza Rancagua;Cuevas 405;Lunes a viernes de 09:00 a 20:00 hrs. Sábado, domingo y festivos de 11:00 a 19:00 hrs.;Oficina;-34.16781975222971,-70.74149509709777
+Región del Libertador Bernardo O´Higgins;Rancagua;;Cuevas 621;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-34.1686829,-70.743416
+Región del Libertador Bernardo O´Higgins;Rancagua;Mall Plaza América;Av. Nueva Alberto Einstein 287 Local 125 ;Lunes a viernes de 09:00 a 19:00 hrs. Sábado, domingo y festivos de 11:00 a 19:00 hrs.;Oficina;-34.1847004,-70.7265475
+Región del Libertador Bernardo O´Higgins;San Fernando;Centro;Avda. Manuel Rodriguez  830;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-34.5877925,-70.9862423
+Región del Maule;Curicó;Centro;Peña 680;Lunes a viernes de 09:00 a 19:00 hrs.;Oficina;-34.9840972,-71.2416395
+Región del Maule;Talca;;Calle Uno Norte 1425;Lunes a viernes de 09:00 a 20:00 hrs. Sábado, domingo y festivos de 11:00 a 19:00 hrs.;Oficina;-35.423594,-71.6563999
+Región del Maule;Talca;;Calle Uno Sur 1136;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-35.4395644,-71.6630413
+Región del Maule;Linares;;Independencia 477;Lunes a viernes de 09:00 a 19:00 hrs.;Oficina;-35.8464752,-71.5963752
+Región del Bío Bío;Chillán;Centro;5 de Abril  599 Local 573-583-599;Lunes a viernes de 09:00 a 19:00 hrs.;Oficina;-36.6079238,-72.1012134
+Región del Bío Bío;Chillán;Centro;5 de Abril 720 Local 2;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-36.609435,-72.1018399
+Región del Bío Bío;Concepción;Mall Plaza El Trébol;Av. Jorge Alessandri 3177 Local BT 157-161;Lunes a viernes de 09:00 a 19:00 hrs.;Oficina;-36.791519,-73.065391
+Región del Bío Bío;Concepción;Mall Plaza El Trébol;Av. Jorge Alessandri 3177 Local G104 al 107;Lunes a viernes de 09:00 a 20:00 hrs. Sábado, domingo y festivos de 11:00 a 19:00 hrs.;Oficina;-36.7974855,-73.0678602
+Región del Bío Bío;Concepción;;Barros Arana 699;Lunes a viernes de 09:00 a 20:00 hrs.;Oficina;-36.8265659,-73.0502449
+Región del Bío Bío;Concepción;;Colo Colo 418;Lunes a viernes de 09:00 a 19:00 hrs.;Oficina;-36.8267157,-73.0480653
+Región del Bío Bío;Talcahuano;;Av. Cristóbal Colón 546;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-36.7849301,-73.0867941
+Región del Bío Bío;Los Ángeles;Mall Plaza Los Ángeles;Valdivia 440 Local 101-102;Lunes a viernes de 09:00 a 20:00 hrs. Sábado de 10:00 a 20:00 hrs. Domingo y festivos de 11:00 a 20:00 hrs.;Oficina;-37.4681513,-72.3522345
+Región del Bío Bío;Angol;;Lautaro 447;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-37.798391,-72.711342
+Región de la Araucanía;Temuco;;Av. Alemania 0870 Local 3-4;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-38.7335928,-72.6149055
+Región de la Araucanía;Villarica;Centro;Av. Pedro de Valdivia 745;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-39.2805736,-72.2312666
+Región de la Araucanía;Temuco;;Prat 658 Local 2;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-38.7399196,-72.5907813
+Región de los Ríos;Valdivia;Mall Plaza de los Ríos;Arauco 561 Local 149;Lunes a viernes de 09:00 a 20:00 hrs. Sábado, domingo y festivos de 11:00 a 20:00 hrs.;Oficina;-39.8158622,-73.2421805
+Región de los Ríos;Valdivia;;Av. Ramón Picarte 469;Lunes a viernes de 09:00 a 19:00 hrs.;Oficina;-39.8145242,-73.2431315
+Región de los Lagos;Osorno;Tienda Falabella;Eleuterio Ramírez 850  Local 108;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 20:00 hrs. Sábado, domingo y festivos de 11:00 a 19:00 hrs.;Oficina;-40.5731057,-73.1360034
+Región de los Lagos;Puerto Montt;Tienda Falabella;Av. Juan Soler Manfredini 101;Lunes a viernes de 09:00 a 20:00 hrs. Sábado, domingo y festivos de 11:00 a 19:00 hrs.;Oficina;-41.4751693,-72.9258523
+Región de los Lagos;Puerto Montt;Centro;Antonio Varas 561;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-41.472614,-72.942548
+Región de los Lagos;Chiloé;Mall Paseo Chiloé;Ignacio Serrano  574 Local T 104-10, Castro;Lunes a viernes de 09:00 a 20:00 hrs. Sábado de 10:00 a 19:00 hrs. Domingo y festivos de 11:00 a 19:00 hrs.;Oficina;-42.47961776454123,-73.76203829999997
+Región de Aysén;Coyhaique;;Arturo Prat 331;Lunes a viernes de 09:00 a 14:00 hrs. y de 15:30 a 19:00 hrs.;Oficina;-45.572500,-72.071000
+Región de Magallanes;Punta Arenas;Plaza de armas;Plaza Muñoz Gamero 765;Lunes a viernes de 09:00 a 19:00 hrs.;Oficina;-53.154478,-70.916476
